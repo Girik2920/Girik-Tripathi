@@ -35,5 +35,5 @@ Machine Learning models for predicting loan default using real-world financial d
 ---
 
 ### 📫 Let’s Connect!
-Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/girik-tripathi29/)) or check out my pinned projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/girik-tripathi29/) or check out my pinned projects!
 
